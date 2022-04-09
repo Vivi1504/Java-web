@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/a/Sushi/src/java/control/MenuControl.java</file>
+            <file>file:/D:/a/Sushi/web/Footer.jsp</file>
+            <file>file:/D:/a/Sushi/src/java/entity/Information.java</file>
+            <file>file:/D:/a/Sushi/web/SushiDetail.jsp</file>
+            <file>file:/D:/a/Sushi/web/Header.jsp</file>
+            <file>file:/D:/a/Sushi/web/css/style.css</file>
+            <file>file:/D:/a/Sushi/web/Menu.jsp</file>
+            <file>file:/D:/a/Sushi/src/java/dao/MenuDAO.java</file>
+            <file>file:/D:/a/Sushi/web/css/right.css</file>
+            <file>file:/D:/a/Sushi/src/java/dao/InforDAO.java</file>
+            <file>file:/D:/a/Sushi/src/java/dao/ShareDAO.java</file>
+            <file>file:/D:/a/Sushi/src/java/dao/SushiDAO.java</file>
+            <file>file:/D:/a/Sushi/src/java/entity/Menu.java</file>
+            <file>file:/D:/a/Sushi/web/css/header.css</file>
+            <file>file:/D:/a/Sushi/src/java/context/DBContext.java</file>
+            <file>file:/D:/a/Sushi/web/HomePage.jsp</file>
+            <file>file:/D:/a/Sushi/src/java/entity/Share.java</file>
+            <file>file:/D:/a/Sushi/web/css/location.css</file>
+            <file>file:/D:/a/Sushi/web/images/sushi1.jpg</file>
+            <file>file:/D:/a/Sushi/src/java/control/HomeControl.java</file>
+            <file>file:/D:/a/Sushi/web/Right.jsp</file>
+            <file>file:/D:/a/Sushi/web/Location.jsp</file>
+            <file>file:/D:/a/Sushi/src/java/control/InforControl.java</file>
+            <file>file:/D:/a/Sushi/web/css/menu.css</file>
+            <file>file:/D:/a/Sushi/src/java/entity/Sushi.java</file>
+            <file>file:/D:/a/Sushi/web/css/footer.css</file>
+            <file>file:/D:/a/Sushi/src/java/control/DetailControl.java</file>
+        </group>
+    </open-files>
+</project-private>
